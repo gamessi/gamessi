@@ -11,7 +11,7 @@ class gamessi_social_media():
     
   def __init__(self):
     self.name = "Camilo Gámez";
-    self.username = "gamezz24";
+    self.username = "gamessi";
     self.location = "Bogotá, Colombia";
     self.twitter = "@gamezvfx";
   
