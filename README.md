@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gamessi/count.svg"/>
+  <br/>
+</div>
 <h1 align="center">
   <b>gamessi</b>
 </h1>
