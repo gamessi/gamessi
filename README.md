@@ -2,7 +2,7 @@
   <b>gamessi</b>
 </h1>
 
-Camilo Andrés Gámez | Estudiante de Ingeniería de Sistemas – Universidad Distrital Francisco José de Caldas
+Camilo Gámez | Estudiante de Ingeniería de Sistemas – Universidad Distrital Francisco José de Caldas
 
 <br>
 
