@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gamessi/count.svg"/>
-  <br/>
+
 </div>
 <h1 align="center">
   <b>gamessi</b>
@@ -39,3 +37,7 @@ if __name__ == '__main__':
 <a href = 'https://www.linkedin.com/in/camilo-gamez-348578269/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/gamezvfx'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/gamessi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gamessi"/>
+  <br/>
