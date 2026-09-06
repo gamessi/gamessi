@@ -2,7 +2,7 @@
   <b>gamessi</b>
 </h1>
 
-Hola, soy Camilo Andrés Gámez actual estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas.
+Camilo Andrés Gámez | Estudiante de Ingeniería de Sistemas – Universidad Distrital Francisco José de Caldas
 
 <br>
 
