@@ -12,16 +12,16 @@ Camilo Gámez | Estudiante de Ingeniería de Sistemas – Universidad Distrital 
 class gamessi_social_media():
     
   def __init__(self):
-    self.name = "Camilo Gámez";
-    self.username = "gamessi";
-    self.location = "Bogotá, Colombia";
-    self.twitter = "@gamezvfx";
+    self.name = "Camilo Gámez"
+    self.username = "gamessi"
+    self.location = "Bogotá, Colombia"
+    self.twitter = "@gamezvfx"
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = gamessi_social_media()
+    me = gamessi()
 ```
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
