@@ -42,6 +42,6 @@ if __name__ == '__main__':
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gamessi"/>
   <br/>
 
-```Maryland
+
 [![Estadísticas de Anurag en GitHub](https://github-stats-extended.vercel.app/api?gamessi=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-```
+
