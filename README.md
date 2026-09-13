@@ -43,5 +43,4 @@ if __name__ == '__main__':
   <br/>
 
 
-[![Estadísticas de Anurag en GitHub](https://github-stats-extended.vercel.app/api?gamessi=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-
+[![Estadísticas de Anurag en GitHub](https://github-stats-extended.vercel.app/api?username=gamessi)](https://github.com/stats-organization/github-stats-extended)e
