@@ -42,5 +42,4 @@ if __name__ == '__main__':
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gamessi"/>
   <br/>
 
-
-[![Estadísticas de Anurag en GitHub](https://github-stats-extended.vercel.app/api?username=gamessi&show icons=true&theme=calm&rank)](https://github.com/stats-organization/github-stats-extended )
+[![gamessi's GitHub stats](https://github-stats-extended.vercel.app/api/?username=gamessi&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Gamessi%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
