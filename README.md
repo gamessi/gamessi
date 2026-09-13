@@ -38,11 +38,11 @@ if __name__ == '__main__':
 <a href = 'https://www.twitter.com/gamezvfx'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/gamessi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-<div align="center">
+  <br/>
 ![gamessi's GitHub stats](https://github-stats-extended.vercel.app/api/?username=gamessi&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&custom_title=Gamessi%27s+Stats&disable_animations=true&number)
 
 
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gamessi"/>
-  <br/>
+
